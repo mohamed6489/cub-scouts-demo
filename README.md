@@ -31,6 +31,38 @@
 | **أهداف التنمية المستدامة** | **لوحة القائد** |
 | ![أهداف التنمية المستدامة](screenshots/sdg-goals.jpg) | ![لوحة القائد](screenshots/leader-dashboard.jpg) |
 
+## 📱 من الموبايل
+
+المنصة مصممة للهاتف أولًا. هذه لقطات من النسخة التجريبية على شاشة موبايل:
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/mobile/01-home.jpg" width="220" alt="الصفحة الرئيسية للشبل"><br><b>الصفحة الرئيسية للشبل</b></td>
+<td align="center"><img src="screenshots/mobile/02-adventures.jpg" width="220" alt="عالم المغامرات"><br><b>عالم المغامرات</b></td>
+<td align="center"><img src="screenshots/mobile/03-akela-map.jpg" width="220" alt="خريطة أكيلا"><br><b>خريطة أكيلا: 8 جزر</b></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/mobile/04-akela-island.jpg" width="220" alt="تحديات الجزيرة"><br><b>تحديات الجزيرة</b></td>
+<td align="center"><img src="screenshots/mobile/05-akela-challenge.jpg" width="220" alt="بطاقة التحدي"><br><b>بطاقة تحدٍّ يعتمدها القائد</b></td>
+<td align="center"><img src="screenshots/mobile/06-quiz-levels.jpg" width="220" alt="مستويات المسابقات"><br><b>مستويات المسابقات</b></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/mobile/07-quiz-question.jpg" width="220" alt="سؤال مسابقة"><br><b>سؤال بمؤقت ومعلومة كشفية</b></td>
+<td align="center"><img src="screenshots/mobile/08-sdg-goals.jpg" width="220" alt="أهداف التنمية المستدامة"><br><b>الأهداف الـ17 بألوانها الرسمية</b></td>
+<td align="center"><img src="screenshots/mobile/09-sdg-card-game.jpg" width="220" alt="لعبة الكروت"><br><b>لعبة كروت أبطال التنمية</b></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/mobile/10-leaderboard.jpg" width="220" alt="سجل شرف المتصدرين"><br><b>سجل شرف المتصدرين</b></td>
+<td align="center"><img src="screenshots/mobile/11-promise-law.jpg" width="220" alt="وعد وقانون الأشبال"><br><b>وعد وقانون الأشبال</b></td>
+<td align="center"><img src="screenshots/mobile/12-badges.jpg" width="220" alt="الأوسمة والشارات"><br><b>الأوسمة والشارات</b></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/mobile/13-leader-awards.jpg" width="220" alt="أوسمة القادة"><br><b>أوسمة ودروع القادة</b></td>
+<td align="center"><img src="screenshots/mobile/14-leader-evaluation.jpg" width="220" alt="تقييم القادة"><br><b>تقييم القادة</b></td>
+<td></td>
+</tr>
+</table>
+
 ## 🛠️ التقنيات
 
 React 19 • TypeScript • Vite • Tailwind CSS • Firebase (Auth + Firestore) في النسخة الحقيقية • PWA
